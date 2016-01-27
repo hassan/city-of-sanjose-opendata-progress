@@ -1,0 +1,29 @@
+{
+    "conformsTo": "http://codefordc.org/resources/specification.html",
+    "status": "Alpha",
+    "thumbnailUrl":"",
+    "contact":
+    {
+        "name": "Hassan Schroeder",
+        "email": "hassan@webtuitive.com",
+        "twitter": "@hassan"
+    },
+    "bornAt": "Code for San Jose",
+    "geography": "San Jose, CA",
+    "governmentPartner": {},
+    "politicalEntity": {"Office of Something":"http://something.dc.gov/"},
+    "communityPartner": {"Community Organization":"http://example.com"},
+    "type": "Web App",
+    "data": {
+        "CfSJ-collected dataset list":"https://docs.google.com/spreadsheets/d/1XQcEmeoR3JDb0xyg4iOnufAoE3X9VToupfXguZRyl9w/"
+    },
+    "needs": [
+        {"need": ["complete list of City datasets", "City data publishing schedules"]},
+        {"want":""}
+    ],
+    "categories": [
+        {"category":"Government"},
+        {"category":"Open Data"}
+    ],
+    "moreInfo": "https://github.com/hassan/city-of-sanjose-opendata-progress"
+}
